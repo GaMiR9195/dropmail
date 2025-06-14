@@ -14,7 +14,7 @@ setuptools.setup(
     description='Python wrapper for https://dropmail.me API',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/yourusername/dropmail-python',
+    url='https://github.com/GaMiR9195/dropmail',
     packages=setuptools.find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
